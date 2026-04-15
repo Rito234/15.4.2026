@@ -68,3 +68,4 @@ draw.line((180, 380, 180, 400), fill="black", width=1)
 
 image.show("white_canvas.png")
 
+
